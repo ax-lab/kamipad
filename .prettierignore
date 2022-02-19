@@ -1,0 +1,13 @@
+# package.json is formatted by package managers
+package.json
+
+# ignored config files
+cspell.json
+
+# Don't change Markdown formatting
+*.md
+
+# Also ignore any libraries and output files
+node_modules
+target
+build

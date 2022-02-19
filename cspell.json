@@ -1,0 +1,17 @@
+{
+	"version": "0.2",
+	"language": "en",
+	"words": [
+		"kamipad"
+	],
+	"flagWords": [
+		"teh"
+	],
+	"ignorePaths": [
+		".vscode/**",
+		"cspell.json",
+		"node_modules/**",
+		"package-lock.json"
+	],
+	"ignoreRegExpList": []
+}
